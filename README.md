@@ -1,3 +1,4 @@
+![The Australia Telescope National Facility](https://pbs.twimg.com/profile_banners/761753326211870720/1604447677/1500x500)
 Mars Buttfield-Addison ([@TheMartianLife](https://twitter.com/TheMartianLife)) is a PhD Candidate in Computer Engineering at the [University of Tasmania](https://www.utas.edu.au/) and [CSIRO](https://www.csiro.au/). Her current work focuses on improving the accuracy, reliability and performance of radio/radar-based satellite and space debris tracking systems. On the side, she does a bunch of other stuff including, but not limited to:
 
 * writing books, such as the 2019 [*Practical Artificial Intelligence with Swift*](https://www.oreilly.com/library/view/practical-artificial-intelligence/9781492044802/) and the upcoming [*Practical Simulations for Machine Learning*](https://www.oreilly.com/library/view/practical-simulations-for/9781492089919/).
